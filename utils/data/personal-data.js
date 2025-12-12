@@ -13,5 +13,5 @@
   stackOverflow: "", // optional
   leetcode: "", // optional
   devUsername: "saurabhkasaudhan",
-  resume: "https://drive.google.com/file/d/10_deaH-tLfGNHcZ9GXiAmfHiov0JBwUU/view?usp=drivesdk" // paste your resume link here when ready (Google Drive or PDF)
+  resume: "https://drive.google.com/file/d/1tQFKcjlunY_w8pTJ_EW4YHCNN9UDKBkK/view?usp=drivesdk" // paste your resume link here when ready (Google Drive or PDF)
 };
