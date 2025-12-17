@@ -29,7 +29,11 @@ function AboutSection() {
   height={280}
   alt="Saurabh Kasaudhan"
   style={{ height: "auto" }}
+<<<<<<< HEAD
   className="rounded-lg transition-all   hover:scale-110 cursor-pointer"
+=======
+  className="rounded-lg transition-all duration-1000  hover:scale-110 cursor-pointer"
+>>>>>>> f026f2d42dbadc5ea42b7fc2dd1ed64f7211cf05
 />
 
         </div>

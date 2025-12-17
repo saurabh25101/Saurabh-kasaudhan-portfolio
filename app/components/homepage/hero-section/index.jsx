@@ -107,8 +107,11 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                  <span className="text-amber-300">Bootstrap</span>
                 <span className="text-gray-400">{"', '"}</span>
+<<<<<<< HEAD
                 <span className="text-amber-300">MUI</span>
                 <span className="text-gray-400">{"', '"}</span>
+=======
+>>>>>>> f026f2d42dbadc5ea42b7fc2dd1ed64f7211cf05
                 <span className="text-amber-300">JavaScript</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">React.js</span>
