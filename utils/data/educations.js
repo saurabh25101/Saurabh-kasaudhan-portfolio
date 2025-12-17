@@ -3,11 +3,10 @@
     id: 1,
     title: "Bachelor of Technology in Computer Science (AI & ML)",
     duration: "2021 - 2025",
-<<<<<<< HEAD
-    institution: "Krishna Enginnering college,Uttar-pradesh"
-=======
+ 
+ 
     institution: "Krishna Enginnering college,Utarr-pradesh"
->>>>>>> f026f2d42dbadc5ea42b7fc2dd1ed64f7211cf05
+ 
   },
   {
     id: 2,
