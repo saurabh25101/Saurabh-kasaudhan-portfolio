@@ -5,7 +5,7 @@
     duration: "2021 - 2025",
  
  
-    institution: "Krishna Enginnering college,Utarr-pradesh"
+    institution: "Krishna Enginnering college,Uttar-pradesh"
  
   },
   {
